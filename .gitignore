@@ -1,1 +1,5 @@
 /node_modules
+/output/*
+!/output
+!/output/.kek
+!/output/sample-output.json
